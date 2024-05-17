@@ -63,7 +63,7 @@
 }
 
 .button{
-    padding-top: 540px;
+    padding-top: 470px;
    padding-left: 649px;
 }
 
@@ -93,11 +93,73 @@
   position: relative;
   top: 483px;
 }
+.foot2{
+    background-color: white;
+    width: 1427px;
+    height: 50px;
+    position: relative;
+    top: 29px;
+}
+.foot3{
+    background-color: white;
+    width: 1430px;
+    height: 50px;
+    position: relative;
+    top: 510px;
+}
+.foot4{
+    background-color: white;
+    width: 1430px;
+    height: 50px;
+    position: relative;
+    top: 510px;
+}
 .foot5{
     background-color: white;
     height: 50px;
     position: relative; 
-    top: 550px;
+    top: 80px;
+}
+.img{
+    width: 200px;
+    align-items: center;
+}
+.drinks{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dessert{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+   position: relative;
+   left: 620px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.sides{
+    position: relative;
+    left: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.list{
+   position: relative;
+   left: 610px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.list1{
+    position: relative;
+    left: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.list2{
+font-family: Arial, Helvetica, sans-serif;
+position: relative;
+left: 510px;
+}
+.list3{
+    position: relative;
+    left: 500px;
 }
 
 .social_media_link{
@@ -156,16 +218,62 @@
 @media screen and (max-width:1200px){
 .foot{
     width: 470px;
-    top: 350px;
+    top: 370px;
+}
+.foot2{
+width:480px ;
+top: 50px;
+}
+.foot3{
+    top: 380px;
+    width: 480px;
+}
+.foot4{
+    top: 385px;
+    width: 480px;
+}
+.foot5{
+    top: 100px;
+}
+.button{
+padding-left: 190px;
+padding-top: 340px;
 }
 .fa-tiktok{
-    left: 70px;
+    left: 50px;
 }
 .fa-facebook{
-    left: 90px;
+    left: 70px;
 }
 .fa-instagram{
-
+left: 95px;
+}
+.fa-twitter{
+    left: 120px;
+}
+.fa-youtube{
+    left: 140px;
+}
+.fa-discord{
+    left: 165px;
+}
+.main{
+    left: 150px;
+}
+.sides{
+left:280px;
+}
+.list{
+    left: 140px;
+}
+.list2{
+left: 100px;
+}
+.list1{
+    left: 60px;
+}
+.list3{
+   left: 100px;
 }
 }
     
